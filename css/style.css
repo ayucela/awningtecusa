@@ -207,7 +207,7 @@ figure {
 }
 #fh5co-aside .fh5co-footer ul {
   padding: 0;
-  margin: 0;
+  margin: 1;
   text-align: center;
 position: relative;
 }
@@ -248,7 +248,7 @@ position: relative;
   position: relative;
   width: 80%;
   margin: 0 auto;
-  padding: 4em 0;
+  padding: 1em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-narrow-content {
@@ -593,7 +593,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
     font-size: 40px;
   }
 }
-.fh5co-feature.fh5co-feature-sm .fh5co-icon i {
+    .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
   color: #da1212;
   font-size: 28px;
 }
